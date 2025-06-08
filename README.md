@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a [file storage app](https://github.com/crisaianvergara/photega).
-- 🌱 Learning DevOps, FastAPI, React, TypeScript, etc.
+- 🌱 Learning AWS, FastAPI, React, TypeScript, and more.
 - 🤔 I'm all ears for suggestions on videos or online courses that can help me dive into learning new languages! :)
 - 📫 How to reach me: crisaianvergara@gmail.com.
 - 😄 Pronouns: he/him

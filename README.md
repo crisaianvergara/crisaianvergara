@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [farm and loan app]([https://app.crisaianvergara.com/](https://github.com/crisaianvergara/photega)).
+- 🔭 I’m currently working on a [file storage app]([https://app.crisaianvergara.com/](https://github.com/crisaianvergara/photega).
 - 🌱 Learning DevOps, FastAPI, React, TypeScript, etc.
 - 🤔 I'm all ears for suggestions on videos or online courses that can help me dive into learning new languages! :)
 - 📫 How to reach me: crisaianvergara@gmail.com.
